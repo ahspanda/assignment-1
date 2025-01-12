@@ -1,0 +1,159 @@
+.work-sans-normal{
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+body{
+    background-color: #F1F1F3;
+}
+nav{
+    display: flex;
+    margin: 10px 100px;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style: none;
+   
+}
+nav li > a{
+    text-decoration: none;
+   
+}
+
+.btn-primary{
+    color:#006A50;
+    font: weight 600;
+    padding: 15px 30px;
+    border-radius: 8px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    padding: 56px 80px;
+    border-radius: 26px;
+    margin: 10px 100px;
+}
+.banner-description{
+    font-weight: bold;
+}
+.btn-bgcolor{
+   
+    background-color:#006A50 ;
+    color: white;
+}
+
+.btn-2{
+    padding: 17px 34px;
+    border-radius: 8px;
+    border: 0;
+}
+.satelite{
+    display: flex;
+}
+.p-container{
+    display: flex;
+}
+.p-d{
+    background-color: white;
+    border-radius: 16px;
+    margin-right: 10px;
+    padding: 24px ;
+}
+
+.p1{
+    margin-left: 160px;
+}
+.v-container{
+    display: flex;
+   
+}
+.v1{
+    background-color: #d5e1f5;
+    padding: 32px;
+    margin-left: 160px;
+    margin-right: 24px;
+    border-radius: 16px;
+   
+}
+.v1-button{
+    background-color: #5490F5;
+    color:#FFFFFF;
+    border-radius: 8px;
+    padding: 11px 20px ;
+    border: 0;
+}
+.v2{
+    background-color: #c6e4d6;
+    padding:32px;
+    margin-right: 24px;
+    border-radius: 16px;
+}
+.v2-button{
+    background-color: #09A15C;
+    color:#FFFFFF;
+    border-radius: 8px;
+    padding: 11px 20px ;
+    border: 0;
+}
+.v3{
+    background-color: #e8dcc2;
+    padding:32px;
+    margin-right: 160px;
+    border-radius: 16px;
+}
+.v3-button{
+    background-color: #FFC239;
+    color:#FFFFFF;
+    border-radius: 8px;
+    padding: 11px 20px ;
+    border: 0;
+
+}
+.news-image{
+    border-radius: 24px;
+    margin: 48px 32px 48px 48px ;
+}
+.satelite{
+    background-color:#FFFFFF;
+}
+.currency-container{
+    display: flex;
+ 
+}
+#currency-2{
+    background-color: #c6e4d6;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 16px;
+    padding: 40px;
+    margin-right: 24px;
+}
+.currency-1{
+    background-color:#FFFFFF ;
+    margin-right: 24px;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 16px;
+    padding: 40px;
+}
+.subscriber{
+    background-color:#c6e4d6 ;
+    margin-left: 160px;
+    margin-right: 160px;
+    border-radius: 24px;
+    padding: 80px 100px;
+}
+
+.sub-h1{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.sub-p{
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
