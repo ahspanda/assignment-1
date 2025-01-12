@@ -50,6 +50,10 @@ nav li > a{
     border-radius: 8px;
     border: 0;
 }
+
+.td{
+    border: 1px solid balck;
+}
 .satelite{
     display: flex;
 }
